@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"cloud_run_alerts","Source":"./cloud-run-alert_module","Dir":""},{"Key":"composer_alerts","Source":"./composer-alert_module","Dir":""},{"Key":"gcs_alerts","Source":"./gcs-alert_module","Dir":"gcs-alert_module"},{"Key":"vm_alerts","Source":"./vm-alert_module","Dir":"vm-alert_module"}]}
